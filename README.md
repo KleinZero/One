@@ -14,7 +14,7 @@
 
 ```bash
 # 1. Clone 项目
-git clone https://github.com/KleinZero/ON.git 001计划
+git clone https://github.com/KleinZero/One.git 001计划
 cd 001计划
 
 # 2. 运行引导脚本（可选，设置本地配置）
