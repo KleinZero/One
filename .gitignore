@@ -1,0 +1,26 @@
+# Claude Code 本地配置（机器相关）
+.claude/settings.local.json
+
+# skill-creator 生成的工作目录
+*-workspace/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+*~
